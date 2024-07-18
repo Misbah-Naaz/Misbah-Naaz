@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular Applications.<br>👯 I’m looking to collaborate on Angular and FrontEnd.<br>🤝 I’m looking for help with UI Design Improvements.<br>=💬 Ask me about Angular Web Applications.<br>⚡ Fun fact I love to Learn and Study new Technologies.
+🔭 I’m currently working on Angular Applications.<br>👯 I’m looking to collaborate on Angular and FrontEnd.<br>🤝 I’m looking for help with UI Design Improvements.<br>💬 Ask me about Angular Web Applications.<br>⚡ Fun fact I love to Learn and Study new Technologies.
 
 
 # 💻 Tech Stack:
